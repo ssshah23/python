@@ -1,5 +1,5 @@
 ##Project 2: In this project, combine two images into a single 3 dimension images. These images will be viewed using red/blue glasses to give the 3D effect. The final image will attempt to be a grayscale of the object in the original images.
-#Author: Shvetaben Shah
+#Author: Shveta Shah
 #Lab time: Monday at 10a.m.
 #Date: 10/20/2016
 
